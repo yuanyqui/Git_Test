@@ -6,5 +6,6 @@ public class GItTest {
         System.out.println("master version");
         System.out.println("master version1");
         System.out.println("hot-fix version");
+        System.out.println("push example");
     }
 }
