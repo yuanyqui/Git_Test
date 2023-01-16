@@ -4,8 +4,7 @@ public class GItTest {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("master version");
-        System.out.println("master version1");
         System.out.println("hot-fix version");
-        System.out.println("push example");
+        System.out.println("pushdemo");
     }
 }
