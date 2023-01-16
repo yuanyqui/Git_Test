@@ -7,5 +7,6 @@ public class GItTest {
         System.out.println("hot-fix version");
         System.out.println("pushdemo");
         System.out.println("pushdemo");
+        System.out.println("pulldemo");
     }
 }
