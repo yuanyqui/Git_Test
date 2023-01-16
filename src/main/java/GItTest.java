@@ -8,5 +8,6 @@ public class GItTest {
         System.out.println("pushdemo");
         System.out.println("pushdemo");
         System.out.println("pulldemo");
+        System.out.println("pulldemo23456768");
     }
 }
